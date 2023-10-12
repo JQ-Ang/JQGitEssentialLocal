@@ -1,3 +1,10 @@
+# Dependencies folder
+# Wants to ignore the changes made inside
+node_modules/	# ignore whole folder
+dependencies/	#		  "
+temp.log		# ignore specific file
+*.log			# ignore files with .log
+
 *.gem
 *.rbc
 /.config
